@@ -1,0 +1,146 @@
+.Fondo {
+	background-image: url("../images/LoginBackground.jpg");
+	-o-background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	height: 980px;
+}
+
+.Letra {
+	font-family: Ubuntu;
+}
+
+.down {
+	padding-top: 10%;
+}
+
+.White {
+	color: white;
+}
+
+.Space {
+	padding: 1%;
+	padding-right: 10%;
+	position: relative;
+	left: 37%;
+	top:20%;
+}
+
+.Space2 {
+	padding-left: 40%;
+	padding-top:50%;
+}
+
+.Borde {
+	border-radius: 7px;
+}
+
+.Color {
+	background-color: white;
+	opacity: 0.6;
+}
+
+.Down {
+	padding-top: 10%;
+}
+
+.down2 {
+	padding-top: 10%;
+}
+
+.Move {
+	padding-left: 40%;
+}
+
+/*REGISTRARSE*/
+
+.Boton {
+	position: relative;
+	left: 37%;
+	padding:1%;
+	padding-right: 18%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	border-radius: 7px;
+}
+
+.down3{
+	padding-top: 30%;
+}
+
+
+
+/*INTRODUCCION*/
+
+.intro{
+	height: 600px;
+	background: url("../images/delfin.jpg");
+	background-size: cover;
+	box-shadow: 3px 3px 3px gray;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.bos{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	color: white;
+
+}
+
+.vs{
+	color: white;
+}
+
+/*Inicio-Sesion*/
+
+.intro{
+	height: 600px;
+	background: url("../images/delfin.jpg");
+	background-size: cover;
+	box-shadow: 3px 3px 3px gray;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.bos{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	color: white;
+
+}
+
+.vs{
+	color: white;
+}
+
+.letra{
+	margin: 0px auto;
+	border-radius: 1px;
+	box-shadow: 3px 3px 3px gray;
+
+}
+
+.CS{
+	background-size: cover;
+}
+
+.Mov {
+	padding-top: 25%;
+	opacity: 0.7;
+}
+
+.c {
+	text-align: left;
+	line-height: 70%;
+	position: absolute;
+}
